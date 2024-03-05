@@ -18,7 +18,7 @@ const sketch = () => {
     const h = height * 0.1;
 
     let x, y;
-    const parts = 12;
+    const parts = 200;
     const radius = width * 0.3;
 
     for (let i = 0; i < parts; i++) {
